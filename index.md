@@ -10,11 +10,11 @@ My work focuses on turning complex datasets into clear insights that inform poli
 
 ### Forest Management and NDVI Recovery
 Cost-Benefit Analysis of environmental recovery program expansion to the lumber industry in New England using optimized plot selection and rental rate modeling.
-[View project](projects/opti_thesis)
+[View project](projects/opti_thesis/)
 
 ### Renewable Energy and Rural Labor Outcomes
 Examine changes to rural labor market outcomes post a large-scale renewable energy project using exogenous environmental randomization.
-[View project](projects/labor_thesis)
+[View project](projects/labor_thesis/)
 
 ---
 
