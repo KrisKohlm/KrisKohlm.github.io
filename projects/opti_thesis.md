@@ -4,9 +4,10 @@ title: Optimization Thesis
 permalink: /projects/opti_thesis/
 ---
 
+<!-- Outer div to set font -->
 <div style="font-family:'Merriweather', Georgia, serif; color:#333333;">
 
-  <!-- Title: Gradient only -->
+  <!-- Title with gradient -->
   <div style="
     background: linear-gradient(90deg, #007acc, #00b894);
     padding:30px;
@@ -18,53 +19,58 @@ permalink: /projects/opti_thesis/
     <h1 style="color:#ffffff; margin:0;">Optimization Thesis</h1>
   </div>
 
-  <!-- Overview -->
-  <h2 style="color:#007acc; margin-top:30px; margin-bottom:15px;">Overview</h2>
-  <p>
-    This project analyzes how expanding an agricultural conservation program (CRP) to include lumber could reduce per-acre government costs while extending environmental benefits.
-  </p>
+  <!-- Thin centered column for all content -->
+  <div style="max-width:650px; margin:0 auto;">
 
-  <hr style="border:0; border-top:2px solid #d3d3d3; margin:30px 0;" />
+    <!-- Overview -->
+    <h2 style="color:#007acc; margin-top:30px; margin-bottom:15px;">Overview</h2>
+    <p>
+      This project analyzes how expanding an agricultural conservation program (CRP) to include lumber could reduce per-acre government costs while extending environmental benefits.
+    </p>
 
-  <!-- Data -->
-  <h2 style="color:#007acc; margin-top:30px; margin-bottom:15px;">Data</h2>
-  <ul>
-    <li>FIA forest inventory data</li>
-    <li>NOAA NDVI</li>
-    <li>County-year panel data (controls and stumpage)</li>
-  </ul>
+    <hr style="border:0; border-top:2px solid #d3d3d3; margin:30px 0;" />
 
-  <hr style="border:0; border-top:2px solid #d3d3d3; margin:30px 0;" />
-
-  <!-- Approach -->
-  <h2 style="color:#007acc; margin-top:30px; margin-bottom:15px;">Approach</h2>
-  <ul>
-    <li>Panel regression with county and year fixed effects</li>
-    <li>Treatment timing and years-since-cut variables</li>
-    <li>Optimization based on complex decision variables and parameter interactions</li>
-  </ul>
-
-  <hr style="border:0; border-top:2px solid #d3d3d3; margin:30px 0;" />
-
-  <!-- Key Findings card -->
-  <div style="
-    background-color:#f0e6fa;
-    padding:20px;
-    border-left:5px solid #007acc;
-    margin-bottom:30px;
-    border-radius:6px;
-  ">
-    <h2 style="color:#007acc; margin-top:0;">Key Findings</h2>
+    <!-- Data -->
+    <h2 style="color:#007acc; margin-top:30px; margin-bottom:15px;">Data</h2>
     <ul>
-      <li>Additional plots from New England could be added with little change in overall program costs</li>
-      <li>NDVI recovery has the possibility of being large and statistically significant, especially when applied to other areas of the country</li>
+      <li>FIA forest inventory data</li>
+      <li>NOAA NDVI</li>
+      <li>County-year panel data (controls and stumpage)</li>
     </ul>
-  </div>
 
-  <hr style="border:0; border-top:2px solid #d3d3d3; margin:30px 0;" />
+    <hr style="border:0; border-top:2px solid #d3d3d3; margin:30px 0;" />
 
-  <!-- Tools -->
-  <h2 style="color:#007acc; margin-top:30px; margin-bottom:15px;">Tools</h2>
-  <p>R, Python, Gurobi</p>
+    <!-- Approach -->
+    <h2 style="color:#007acc; margin-top:30px; margin-bottom:15px;">Approach</h2>
+    <ul>
+      <li>Panel regression with county and year fixed effects</li>
+      <li>Treatment timing and years-since-cut variables</li>
+      <li>Optimization based on complex decision variables and parameter interactions</li>
+    </ul>
 
-</div>
+    <hr style="border:0; border-top:2px solid #d3d3d3; margin:30px 0;" />
+
+    <!-- Key Findings card -->
+    <div style="
+      background-color:#f0e6fa;
+      padding:20px;
+      border-left:5px solid #007acc;
+      margin-bottom:30px;
+      border-radius:6px;
+    ">
+      <h2 style="color:#007acc; margin-top:0;">Key Findings</h2>
+      <ul>
+        <li>Additional plots from New England could be added with little change in overall program costs</li>
+        <li>NDVI recovery has the possibility of being large and statistically significant, especially when applied to other areas of the country</li>
+      </ul>
+    </div>
+
+    <hr style="border:0; border-top:2px solid #d3d3d3; margin:30px 0;" />
+
+    <!-- Tools -->
+    <h2 style="color:#007acc; margin-top:30px; margin-bottom:15px;">Tools</h2>
+    <p>R, Python, Gurobi</p>
+
+  </div> <!-- end thin column -->
+
+</div> <!-- end font wrapper -->
