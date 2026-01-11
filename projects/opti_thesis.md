@@ -25,7 +25,7 @@ permalink: /projects/opti_thesis/
   <div style="display:flex; gap:30px; flex-wrap:wrap; justify-content:center;">
 
     <!-- Left: thin text column -->
-    <div style="flex:1 1 0; max-width:450px;">
+    <div style="flex:1 1 0; max-width:600px;">
 
       <!-- Overview -->
       <h2 style="color:#159957; margin-top:30px; margin-bottom:15px;">Overview</h2>
