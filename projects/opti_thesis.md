@@ -70,18 +70,12 @@ permalink: /projects/opti_thesis/
       <!-- Tools -->
         <h2 style="color:#159957; margin-top:0;">Tools</h2>
         <p>R, Python, Gurobi</p>
-    </div>
-
   </div> <!-- end left column -->
 
-  <!-- Right: Sidebar images -->
+  <!-- Right sidebar images -->
   <div style="flex:0 1 250px; max-width:250px; display:flex; flex-direction:column; gap:40px; margin-top:50px;">
-    <img src="/assets/images/opti/results.png" alt="Main Results" style="width:100%; height:auto; border-radius:6px;">
-    <img src="/assets/images/opti/plotsizes.png" alt="Randomized Plot Sizes" style="width:100%; height:auto; border-radius:6px;">
+    <img src="/assets/images/opti/results.png" style="width:100%; height:auto; border-radius:6px;">
+    <img src="/assets/images/opti/plotsizes.png" style="width:100%; height:auto; border-radius:6px;">
   </div>
 
 </div> <!-- end flex container -->
-
-  </div> <!-- end flex container -->
-
-</div>
