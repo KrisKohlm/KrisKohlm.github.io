@@ -73,7 +73,7 @@ permalink: /projects/opti_thesis/
   </div> <!-- end left column -->
 
   <!-- Right sidebar images -->
-  <div style="flex:0 1 250px; max-width:250px; display:flex; flex-direction:column; gap:40px; margin-top:50px;">
+  <div style="flex:0 1 400px; max-width:250px; display:flex; flex-direction:column; gap:40px; margin-top:50px;">
     <img src="/assets/images/opti/results.png" style="width:100%; height:auto; border-radius:6px;">
     <img src="/assets/images/opti/plotsizes.png" style="width:100%; height:auto; border-radius:6px;">
   </div>
