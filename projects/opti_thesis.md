@@ -19,17 +19,13 @@ permalink: /projects/opti_thesis/
   </div>
 
   <!-- Flex container for text + sidebar images -->
-  <div style="
-  display:flex;
-  gap:30px;
-  flex-wrap:wrap;
-  justify-content:center;>
+  <div style="display:flex; gap:30px; flex-wrap:wrap; justify-content:center;">
 
     <!-- Left: thin text column -->
     <div style="flex:1 1 0; max-width:450px;">
 
       <!-- Overview -->
-      <h2 style="color:#00b894; margin-top:30px; margin-bottom:15px;">Overview</h2>
+      <h2 style="color:#159957; margin-top:30px; margin-bottom:15px;">Overview</h2>
       <p>
         This project analyzes how expanding an agricultural conservation program (CRP) to include lumber could reduce per-acre government costs while extending environmental benefits.
       </p>
@@ -37,7 +33,7 @@ permalink: /projects/opti_thesis/
       <hr style="border:0; border-top:2px solid #d3d3d3; margin:30px 0;" />
 
       <!-- Data -->
-      <h2 style="color:#00b894; margin-top:30px; margin-bottom:15px;">Data</h2>
+      <h2 style="color:#159957; margin-top:30px; margin-bottom:15px;">Data</h2>
       <ul>
         <li>FIA forest inventory data</li>
         <li>NOAA NDVI</li>
@@ -47,7 +43,7 @@ permalink: /projects/opti_thesis/
       <hr style="border:0; border-top:2px solid #d3d3d3; margin:30px 0;" />
 
       <!-- Approach -->
-      <h2 style="color:#00b894; margin-top:30px; margin-bottom:15px;">Approach</h2>
+      <h2 style="color:#159957; margin-top:30px; margin-bottom:15px;">Approach</h2>
       <ul>
         <li>Panel regression with county and year fixed effects</li>
         <li>Treatment timing and years-since-cut variables</li>
@@ -57,14 +53,7 @@ permalink: /projects/opti_thesis/
       <hr style="border:0; border-top:2px solid #d3d3d3; margin:30px 0;" />
 
       <!-- Key Findings card -->
-      <div style="
-        background-color:#f0ead6;
-        padding:20px;
-        border-left:5px solid #00b894;
-        margin-bottom:30px;
-        border-radius:6px;
-      ">
-        <h2 style="color:#00b894; margin-top:0;">Key Findings</h2>
+        <h2 style="color:#159957; margin-top:30px; margin-bottom:15px;">Key Findings</h2>
         <ul>
           <li>Additional plots from New England could be added with little change in overall program costs</li>
           <li>NDVI recovery has the possibility of being large and statistically significant, especially when applied to other areas of the country</li>
@@ -74,7 +63,7 @@ permalink: /projects/opti_thesis/
       <hr style="border:0; border-top:2px solid #d3d3d3; margin:30px 0;" />
 
       <!-- Tools -->
-      <h2 style="color:#00b894; margin-top:30px; margin-bottom:15px;">Tools</h2>
+      <h2 style="color:#159957; margin-top:30px; margin-bottom:15px;">Tools</h2>
       <p>R, Python, Gurobi</p>
 
     </div> <!-- end text column -->
