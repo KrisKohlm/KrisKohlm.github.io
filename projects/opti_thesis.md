@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Forest Management and NDVI Recovery
+title: Optimization Thesis
+permalink: /projects/opti_thesis/
 ---
 
 ## Overview
