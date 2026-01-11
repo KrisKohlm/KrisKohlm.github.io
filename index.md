@@ -1,6 +1,4 @@
-# Kristine Kohlmeier  
-### Data Analyst | Applied Economics | Policy & Health Analytics
-
+## About Me
 I am a recent Master's graduate with a background in applied economics and environmental and health data analysis.  
 My work focuses on turning complex datasets into clear insights that inform policy and operational decisions.
 
