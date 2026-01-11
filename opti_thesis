@@ -15,7 +15,7 @@ This project analyzes how expanding an agricultural conservation program (CRP) t
 
 ## Key Findings
 - Additional plots from New England could be added with little change in overall program costs
-- NDVI recovery has the possibility of being large and statistically significant especially when applied to other areas of the country
+- NDVI recovery has the possibility of being large and statistically significant, especially when applied to other areas of the country
 
 ## Tools
 R, Python, Gurobi
