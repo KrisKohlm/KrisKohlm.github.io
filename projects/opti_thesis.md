@@ -4,7 +4,7 @@ title: Optimization Thesis
 permalink: /projects/opti_thesis/
 ---
 
-<div style="font-family:'Merriweather', Georgia, serif; color:#333333;">
+<div style="font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;; color:#333333;">
 
   <!-- Title with gradient -->
   <div style="
