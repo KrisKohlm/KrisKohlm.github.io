@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Optimization Thesis
 permalink: /projects/opti_thesis/
 ---
