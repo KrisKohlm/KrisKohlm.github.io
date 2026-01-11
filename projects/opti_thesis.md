@@ -6,11 +6,11 @@ permalink: /projects/opti_thesis/
 
 <div style="font-family:'Merriweather', Georgia, serif; color:#333333;">
 
-  <!-- Title with gradient (full width) -->
+  <!-- Title with gradient-->
   <div style="
-    background: linear-gradient(90deg, #007acc, #00b894);
+    background: linear-gradient(90deg, #155799, #159957);
     padding:30px;
-    border-left:5px solid #007acc;
+    border-left:5px solid #155799;
     border-radius:8px;
     margin-bottom:40px;
     text-align:center;
@@ -19,7 +19,11 @@ permalink: /projects/opti_thesis/
   </div>
 
   <!-- Flex container for text + sidebar images -->
-  <div style="display:flex; gap:30px; flex-wrap:wrap;">
+  <div style="
+  display:flex;
+  gap:30px;
+  flex-wrap:wrap;
+  justify-content:center;>
 
     <!-- Left: thin text column -->
     <div style="flex:1 1 0; max-width:450px;">
