@@ -4,7 +4,7 @@ title: Optimization Thesis
 permalink: /projects/opti_thesis/
 ---
 
-<div style="font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; color:#333333;">
+<div style="font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; color:#333333;">
 
   <!-- Title with gradient -->
 <div style="
@@ -70,15 +70,17 @@ permalink: /projects/opti_thesis/
       <!-- Tools -->
         <h2 style="color:#159957; margin-top:0;">Tools</h2>
         <p>R, Python, Gurobi</p>
-      </div>
+    </div>
 
-    </div> <!-- end text column -->
+  </div> <!-- end left column -->
 
-    <!-- Right: Sidebar images -->
-    <div style="flex:0 0 250px; display:flex; flex-direction:column; gap:40px; margin-top:50px;">
-  <img src="/assets/images/opti/results.png" alt="Main Results" style="width:100%; height:auto; border-radius:6px;">
-  <img src="/assets/images/opti/plotsizes.png" alt="Randomized Plot Sizes" style="width:100%; height:auto; border-radius:6px;">
-</div>
+  <!-- Right: Sidebar images -->
+  <div style="flex:0 0 250px; display:flex; flex-direction:column; gap:40px; margin-top:50px;">
+    <img src="/assets/images/opti/results.png" alt="Main Results" style="width:100%; height:auto; border-radius:6px;">
+    <img src="/assets/images/opti/plotsizes.png" alt="Randomized Plot Sizes" style="width:100%; height:auto; border-radius:6px;">
+  </div>
+
+</div> <!-- end flex container -->
 
   </div> <!-- end flex container -->
 
