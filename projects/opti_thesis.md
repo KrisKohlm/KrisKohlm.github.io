@@ -4,10 +4,6 @@ title: Optimization Thesis
 permalink: /projects/opti_thesis/
 ---
 
-<div style="background-color:#f0f8ff; padding:10px 15px; border-left:5px solid #007acc; margin-bottom:20px;">
-  <h2>Optimization Thesis</h2>
-</div>
-
 ## Overview
 This project analyzes how expanding an agricultural conservation program (CRP) to include lumber could reduce per-acre government costs while extending environmental benefits.
 
