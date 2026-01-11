@@ -7,14 +7,14 @@ permalink: /projects/opti_thesis/
 <div style="font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;; color:#333333;">
 
   <!-- Title with gradient -->
-  <div style="
-    background: linear-gradient(90deg, #155799, #159957);
-    padding:30px;
-    border-left:5px solid #155799;
-    margin-bottom:40px;
-    text-align:center;
-    border-radius:8px;
-  ">
+<div style="
+  background: linear-gradient(90deg, #155799, #159957);
+  padding:20px 30px; 
+  border-left:5px solid #155799;
+  margin:0;           
+  text-align:center;
+  border-radius:8px;
+">
       <h1 style="color:#ffffff; margin:0;">Forest Management and NDVI Recovery</h1>
       <h2 style="color:#e0f7f1; margin:10px 0 0 0; font-weight:400; font-size:1.5rem;">
         Statistics Masters Thesis
@@ -68,13 +68,6 @@ permalink: /projects/opti_thesis/
       </div>
 
       <!-- Tools -->
-      <div style="
-        background-color:#d4f0e0;
-        padding:20px;
-        border-left:5px solid #00b894;
-        border-radius:6px;
-        margin-bottom:30px;
-      ">
         <h2 style="color:#159957; margin-top:0;">Tools</h2>
         <p>R, Python, Gurobi</p>
       </div>
@@ -82,7 +75,7 @@ permalink: /projects/opti_thesis/
     </div> <!-- end text column -->
 
     <!-- Right: Sidebar images -->
-    <div style="flex:0 0 200px; display:flex; flex-direction:column; gap:20px;">
+    <div style="flex:0 0 250px; display:flex; flex-direction:column; gap:20px;">
       <img src="/assets/images/opti/results.png" alt="Main Results" style="width:100%; height:auto; border-radius:6px;">
       <img src="/assets/images/opti/plotsizes.png" alt="Randomized Plot Sizes" style="width:100%; height:auto; border-radius:6px;">
     </div>
